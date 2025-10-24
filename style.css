@@ -3,7 +3,7 @@
   height: 400px;
   background-image: 
     linear-gradient(rgba(12, 176, 171, 0.4), rgba(0, 0, 0, 0.4)), /* dark overlay */
-    url('/464730743_10229873332091946_7295717202158093009_n.jpg');                /* your banner image */
+    url('464730743_10229873332091946_7295717202158093009_n.jpg');                /* your banner image */
   background-size: cover;   /* or 'contain' if you don’t want cropping */
   background-repeat: no-repeat;
 }
@@ -28,5 +28,6 @@
 #dataTable td, #dataTable th {
   padding: 8px;
 }
+
 
 
